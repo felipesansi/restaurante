@@ -1,0 +1,6 @@
+.men{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 254, 254);
+    
+}
